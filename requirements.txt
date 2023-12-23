@@ -1,0 +1,6 @@
+numpy==1.26.2
+pygame==2.5.2
+pygame-menu==4.4.3
+pyperclip==1.8.2
+PyTMX==3.32
+typing_extensions==4.9.0
